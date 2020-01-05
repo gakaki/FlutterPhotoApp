@@ -5,3 +5,4 @@ dist/**/*
 **/dist/**/*
 **/515页面布局
 flutter/build/**
+.dart_tool

@@ -6,12 +6,16 @@ library public;
 export 'package:studio515/global.dart';
 
 // // Utility
-// export 'package:studio515/utility/utility.dart';
+ export 'package:studio515/util/toast.dart';
 // export 'package:studio515/utility/screen.dart';
 // export 'package:studio515/utility/event_bus.dart';
-// export 'package:studio515/utility/toast.dart';
 // export 'package:studio515/utility/styles.dart';
 
+// Request
+ export 'package:studio515/app/request.dart';
+
+ // Model
+export 'package:studio515/model/product.dart';
 // // Widget
 // export 'package:studio515/widget/novel_cover_image.dart';
 // export 'package:studio515/widget/novel_cover_view.dart';

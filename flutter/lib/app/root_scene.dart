@@ -1,9 +1,15 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+import 'package:studio515/app/album/album_scene.dart';
+import 'package:studio515/model/product.dart';
 
 import 'package:studio515/public.dart';
 import 'package:studio515/home/home_scene.dart';
+import 'package:studio515/util/toast.dart';
+import 'dart:convert';
+
+import 'request.dart';
 
 // import 'package:studio515/bookshelf/bookshelf_scene.dart';
 // import 'package:studio515/me/me_scene.dart';
@@ -32,8 +38,8 @@ class _RootSceneState extends State<RootScene> {
   @override
   void initState() {
     super.initState();
-
     setupApp();
+
 
     // eventBus.on(EventUserLogin, (arg) {
     //   setState(() {});
@@ -74,6 +80,9 @@ class _RootSceneState extends State<RootScene> {
     return Scaffold(
       body: IndexedStack(
         children: <Widget>[
+          AlbumScene(),
+          AlbumScene(),
+          AlbumScene(),
           // BookshelfScene(),
           // HomeScene(),
           // MeScene(),
@@ -90,6 +99,7 @@ class _RootSceneState extends State<RootScene> {
         ],
         currentIndex: _tabIndex,
         onTap: (index) {
+
           setState(() {
             _tabIndex = index;
           });
