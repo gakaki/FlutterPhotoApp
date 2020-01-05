@@ -4,9 +4,9 @@
 
 ## Screenshots
 
-Light Mode|Dark Mode
----|---
-![CSV解析写入MongoDB](https://github.com/gakaki/FlutterPhotoApp/blob/master/images/backend_csv.png?1212)|![Nest.js Rest]](https://github.com/gakaki/FlutterPhotoApp/blob/master/images/backend_rest.png?1212)
+
+![CSV解析写入MongoDB](https://github.com/gakaki/FlutterPhotoApp/blob/master/images/backend_csv.png?1212)
+![Nest.js Rest](https://github.com/gakaki/FlutterPhotoApp/blob/master/images/backend_rest.png?1212)
 ![Nest.js TypeGraphQL](https://github.com/gakaki/FlutterPhotoApp/blob/master/images/backend_graphql.png)
 
 后端： backend/studio515
