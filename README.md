@@ -1,7 +1,5 @@
 # 515Studio网站 App Flutter 和 后台
-
-## 又一个普通的图片浏览站APP 后端+Flutter
-
+ 展示GraphQL Rest Flutter
 ## Screenshots
 
 ![CSV解析写入MongoDB](https://github.com/gakaki/FlutterPhotoApp/blob/master/images/backend_csv.png?1212)
