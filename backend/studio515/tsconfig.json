@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "declaration": true,
+    "removeComments": true,
+    "esModuleInterop": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "target": "es2017",
+    "sourceMap": true,
+    "outDir": "./dist",
+    "baseUrl": "./",
+    "incremental": false,//有的时候会出问题增量编译
+    "lib": ["es2019"],
+    "types": ["node"]
+  },
+  "exclude": [
+    "node_modules", "dist", 
+    "typings/browser.d.ts",
+    "typings/browser",
+    "node_modules"
+  ]
+}

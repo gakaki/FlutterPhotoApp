@@ -1,0 +1,150 @@
+"ID","ParentID","ClassName","OrderId","ClassUrl","ClassPic","About","Content1","Content2","IsShow"
+2,0,"新闻分类",1,,,,,,0
+3,0,"商品分类",3,,,,,,0
+146,0,"页面分类",4,,,,,,0
+201,200,"上海市",1,,,,,,0
+421,450,"资料下载",1,,,,,,0
+422,450,"说明下载",2,,,,,,0
+425,2,"客户案例",2,,,,,,0
+450,0,"下载中心",3,,,,,,0
+461,416,"友情链接",1,,,,,,0
+462,416,"相关网站链接",2,,,,,,0
+479,469,"HB-1000型",1,,,,,,0
+480,469,"HB-4000型",2,,,,,,0
+481,471,"LF-V型",1,,,,,,0
+482,471,"LF-Ⅵ型",2,,,,,,0
+483,470,"LA-1200型",1,,,,,,0
+484,470,"LA-400型",2,,,,,,0
+495,425,"化工行业",1,,,,,,0
+496,425,"医药行业",2,,,,,,0
+497,425,"电子物理行业",3,,,,,,0
+498,425,"研究所",4,,,,,,0
+499,425,"高等院校",5,,,,,,0
+500,425,"其他行业",6,,,,,,0
+501,2,"新闻资讯",3,,,,,,0
+513,501,"公司新闻",1,,,,,,0
+514,501,"产品资讯",2,,,,,,0
+520,501,"人才招聘",3,,,,,,0
+526,452,"Advertising广告",1,,,,,,0
+527,452,"Celebrites 明星",2,,,,,,0
+528,452,"Fashion 时装",3,,,,,,0
+529,452,"Beauty 妆容",4,,,,,,0
+530,452,"clothes 服装",5,,,,,,0
+531,452,"Portrait 肖像",6,,,,,,0
+142,3,"515WORKSHOP",1,,,,,,0
+518,494,"实验室布局",2,,,,,"<p><span style=""font-size: large""><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 现代实验室整体规划概念 <br />
+</strong></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lab Design Concept<br />
+&nbsp;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 随着工业向科技化的发展，在实验室规划设计领域引入了越来越多的新概念，带动实验室向高级化发展。贝塔公司正是借鉴国外现代化的实验室概念，在设计中引入人体工程学等原理，设计出的产品除体现坚固、美观、整洁、方便的特点外，更具人性化和安全性。</p>
+<p>1.性质不同的实验室，独立操作可提高功能，避免干扰，同时室内应作合理分割。如：一般分析室、化学分析室、物理实验室、生物实验室、诊疗室、护士室、特殊仪器分析室、品质检验室、实验小型工场等。除此以外，尚有化学药品、仪器零件储藏室、办公室、图书室、会议室、更衣冲洗室、休息室、餐饮室等。实验室过道分隔采用隔音、防尘、保温、整洁的轻钢材料以适应整体配套要求。</p>
+<p>2.实验室室内设备主要分有：中央实验桌、边角型实验桌、排烟柜、水槽桌、天平桌、药品柜、玻璃仪器柜、试剂架、天平台、安全器材柜以及各种气体考克、紧急淋浴洗眼设备等以满足各种专业要求。尤其地坪用材，应视实验性质用途而异，主要考虑为耐湿、耐酸碱、油性、表面耐磨、不生粉尘，能止滑性，且易以清洁，保持美观为原则。</p>
+<p>3.加强实验室内空调功能，减少在实验过程中产生热气、污染气体等，因此相关实验均须移置在气帘式(Air Curtain)排气柜内操作，气帘式排气柜系将室外空气导入排气柜操作门，将空气构成气帘作用，从而建立令实验人员满意的整体环境，储存设备和安全系统。<br />
+&nbsp;<br />
+4. 在实验室规划布局中，应考虑利用有限空间来达到最好的利用效果。实验桌与实验桌的间隔应保持1.5~1.8米的距离，这样实验人员可以在这个范围内自由活动，既方便又互不干扰。</p>
+<p>5. 实验桌、排烟柜、药品柜等应尽量靠墙，避免阳光直射，减少紫外线对实验的影响。<br />
+&nbsp;<br />
+6. 实验室桌、椅、柜在设计上应考虑配合实验人员身材条件，借鉴人体工程学原理，对比作业功能和效果，使实验人员以各种不同的姿态工作都能舒服自然。<br />
+&nbsp;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 现代化的实验室彻底打破了传统概念，其设计至施工采用了系统连贯的方法，为实验人员度身订造一个安全、高效、美观、耐久的工作环境。</p>",0
+517,494,"设计理念",1,,,,,"<p><img alt="""" width=""720"" height=""465"" src=""/lingjun/A_UpLoad//2011102514093172.jpg"" /></p>
+<p><img width=""720"" height=""302"" alt="""" src=""/lingjun/A_UpLoad//2011102514125719.jpg"" /></p>",0
+452,3,"Category",2,,,,,,0
+524,146,"links",2,,,,,"<table style=""font-size: 12px"" width=""98%"" cellspacing=""0"" cellpadding=""0"" border=""0"" align=""center"">
+    <tbody>
+        <tr>
+            <td height=""40"" align=""left"">
+            <table class=""touzi"" height=""70"" cellspacing=""0"" cellpadding=""0"" border=""0"">
+                <tbody>
+                    <tr>
+                        <td width=""329"" height=""45"">
+                        <p><span style=""font-size: medium""><span style=""font-family: 黑体""><span style=""color: #000000""><span class=""trans"">品牌合作</span></span></span></span></p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p><img src=""/A_UpLoad//2018110617342439.jpg"" width=""900"" height=""483"" alt="""" /></p>",0
+416,0,"其他链接",0,,,,,,0
+525,146,"Index",3,,,,,"<table cellspacing=""0"" cellpadding=""0"" width=""100%"" align=""center"" border=""0"" style=""font-size: 12px"">
+    <tbody>
+        <tr>
+            <td align=""left"" height=""40"">
+            <table class=""touzi"" height=""70"" cellspacing=""0"" cellpadding=""0"" border=""0"">
+                <tbody>
+                    <tr>
+                        <td width=""329"" height=""45""><strong style=""font-size: 26px; color: #333"">Key word</strong></td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>",0
+523,146,"about us",1,,,,,"<p style=""text-align: right"">&nbsp;</p>
+<p>
+<table width=""820"" cellspacing=""1"" cellpadding=""1"" border=""0"" align=""right"">
+    <tbody>
+        <tr>
+            <td colspan=""2"" height=""80"" align=""right"">
+            <table class=""about"" width=""100%"" cellspacing=""0"" cellpadding=""0"" border=""0"">
+                <tbody>
+                    <tr>
+                        <td width=""40%"" align=""left"">
+                        <p style=""text-align: right""><span xml:lang=""zh-CN"" lang=""zh-CN""><strong>上海优齐文化传播有限公司</strong></span><span xml:lang=""zh-CN"" id=""result_box"" lang=""zh-CN""><br />
+                        <br />
+                        - 市区大型商业摄影棚<br />
+                        - 专业摄影器材<br />
+                        - 资深商业摄影师</span><br />
+                        &nbsp;</p>
+                        <p style=""text-align: right""><span xml:lang=""zh-CN"" id=""result_box"" lang=""zh-CN""><strong><br />
+                        提供的服务：</strong><br />
+                        - 商业广告、</span><span xml:lang=""zh-CN"" id=""result_box"" lang=""zh-CN""><span id=""result_box"" lang=""zh-CN"">品牌画册</span>、品牌天猫、产品视频<br />
+                        </span>- <span xml:lang=""zh-CN"" id=""result_box"" lang=""zh-CN"">1300平方专业3个商业摄影棚及器材租赁</span><span xml:lang=""zh-CN"" id=""result_box"" lang=""zh-CN""><strong><br />
+                        </strong></span><span xml:lang=""zh-CN"" id=""result_box"" lang=""zh-CN""><br />
+                        <br />
+                        </span><span xml:lang=""zh-CN"" id=""result_box"" lang=""zh-CN""><strong><br />
+                        联系方式：</strong><br />
+                        - 地址：上海市静安区 <br />
+                        - 洛川中路840号E构空间创意园E栋3楼（办公室）<br />
+                        - 邮编：200042 <br />
+                        - 手机：<span xml:lang=""zh-CN"" id=""result_box"" lang=""zh-CN"">13818198787 </span></span><br />
+                        <span xml:lang=""zh-CN"" lang=""zh-CN"">- 电话/传真：021-56831983</span><br />
+                        <span xml:lang=""zh-CN"" lang=""zh-CN"">- 邮件：<a href=""mailto:Yuki@Studio515.cn""><span style=""font-size: medium;"">:Yuki@Studio515.cn</span></a></span><span style=""font-size: small;"">&nbsp;</span></p>
+                        </td>
+                        <td style=""text-align: right""><img src=""/A_UpLoad//2012073107210435.jpg"" alt="""" width=""400"" height=""449"" />&nbsp;</td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <div style=""text-align: center"" id=""player540428-parent""><br />
+            <div style=""width: 0px; display: none; height: 0px; visibility: hidden; overflow: hidden"" id=""player540428-config"">url=/A_UpLoad/file/2012112209155911.flv width=600 height=450 loop=false play=false downloadable=false fullscreen=true displayNavigation=true displayDigits=true align=center dispPlaylist=none playlistThumbs=false</div>
+            <script type=""text/javascript"">
+	var s1 = new SWFObject(""http://515workshop.com/A_UpLoadTool/editor/plugins/flvPlayer/mediaplayer.swf"",""single"",""600"",""450"",""7"");
+	s1.addVariable(""width"",""600"");
+	s1.addVariable(""height"",""450"");
+	s1.addVariable(""autostart"",""false"");
+	s1.addVariable(""file"",""/A_UpLoad/file/2012112209155911.flv"");
+	s1.addVariable(""repeat"",""false"");
+	s1.addVariable(""image"","""");
+	s1.addVariable(""showdownload"",""false"");
+	s1.addVariable(""link"",""/A_UpLoad/file/2012112209155911.flv"");
+	s1.addParam(""allowfullscreen"",""true"");
+	s1.addVariable(""showdigits"",""true"");
+	s1.addVariable(""shownavigation"",""true"");
+	s1.addVariable(""logo"","""");
+	s1.write(""player540428"");
+</script></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</p>",0
