@@ -4,12 +4,12 @@
 
 ## Screenshots
 
-
 ![CSV解析写入MongoDB](https://github.com/gakaki/FlutterPhotoApp/blob/master/images/backend_csv.png?1212)
 ![Nest.js Rest](https://github.com/gakaki/FlutterPhotoApp/blob/master/images/backend_rest.png?1212)
 ![Nest.js TypeGraphQL](https://github.com/gakaki/FlutterPhotoApp/blob/master/images/backend_graphql.png)
+![Flutter](https://github.com/gakaki/FlutterPhotoApp/blob/master/images/flutter.png)
 
-后端： backend/studio515
+## 后端： backend/studio515
     
     TypeScript
     Nest.js 
@@ -17,13 +17,24 @@
     typegoose
     MongoDB
 
-分析CSV写入MongoDB： backend/csv_parse
+
+## 分析CSV写入MongoDB： backend/csv_parse
     
     TypeScript
     Papa Parse
     cheerio
 
-移动端: flutter
+###  运行方法：
+    0 启动 docker-compose 启动 mongodb
+        cd csv_parse;
+        docker-compose up -d 
+        启动的mongodb 是 127.0.0.1:27107/studio
+    1 CSV写入数据库mongodb
+        cd csv_parse;
+        npm install;
+        ts-node index.ts;
+
+## 移动端: flutter 继续
     
 
-小程序: 继续
+## 小程序: Taro 未开始
